@@ -1,0 +1,23 @@
+{
+  "name": "babytorrent",
+  "version": "1.0.0",
+  "description": "A baby bit torrent application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolojoe/babytorrent.git"
+  },
+  "keywords": [
+    "bittorrent",
+    "p2p"
+  ],
+  "author": "Joseph Glover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolojoe/babytorrent/issues"
+  },
+  "homepage": "https://github.com/kolojoe/babytorrent#readme"
+}
