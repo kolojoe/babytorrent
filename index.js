@@ -1,0 +1,5 @@
+var bencode = require("bencode")
+var fs = require("fs")
+var bbb = fs.readFileSync("./big-buck-bunny.torrent")
+var result = bencode.decode(bbb)
+console.log(result)

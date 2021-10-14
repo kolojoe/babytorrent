@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kolojoe/babytorrent/issues"
   },
-  "homepage": "https://github.com/kolojoe/babytorrent#readme"
+  "homepage": "https://github.com/kolojoe/babytorrent#readme",
+  "dependencies": {
+    "bencode": "^2.0.2"
+  }
 }
